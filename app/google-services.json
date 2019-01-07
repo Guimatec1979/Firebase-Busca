@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "858014883777",
+    "firebase_url": "https://fir-busca-136f4.firebaseio.com",
+    "project_id": "fir-busca-136f4",
+    "storage_bucket": "fir-busca-136f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858014883777:android:c26b73313ba19213",
+        "android_client_info": {
+          "package_name": "guimatec.dev.com.firebasebusca"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858014883777-jka8bhi813ebdor715bnb59lpul1cqv5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "guimatec.dev.com.firebasebusca",
+            "certificate_hash": "244e72500bfe849fc049579a1791a0c407812322"
+          }
+        },
+        {
+          "client_id": "858014883777-297ld7f3p054f1o7de7tacajghklores.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm1HMj4l4cWj7VifpzwSu3-0_F1jogL-0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858014883777-297ld7f3p054f1o7de7tacajghklores.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
